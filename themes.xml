@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- res/values/themes.xml -->
+    <style name="Theme.Graphio" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Status & Navigation Bar -->
+
+      
+        <!-- এখানে থেকে -->
+      
+        <item name="android:statusBarColor">@color/background_dark</item>
+        <item name="android:navigationBarColor">@color/background_dark</item>
+
+        <!-- Primary Colors -->
+        <item name="colorPrimary">@color/background_dark</item>
+        <item name="colorPrimaryVariant">@color/background_dark</item>
+
+        <!-- Main Background (Launch Screen) -->
+        <item name="android:windowBackground">@color/background_dark</item>
+
+        <!-- এই পর্যন্ত কোড হলো ডিফোল্ট স্ক্রিন এর থিম ডার্ক  রাখতে -->
+        
+    </style>
+</resources>
